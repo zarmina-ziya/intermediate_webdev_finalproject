@@ -1,4 +1,3 @@
-_finalproject$ npx jasmine
 Randomized with seed 60875
 Started
 

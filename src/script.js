@@ -4,7 +4,7 @@ const calculateSimpleInterest = (principal, rate, time) => {
 
 const calculateTotalPayableAmount = (principal, interestAmount) => {
     return principal + interestAmount;
-};
+}  
 
 const calculate = () => {
     let p = Number(document.getElementById("principal").value);
